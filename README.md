@@ -11,5 +11,10 @@ A aplicacão web foi desenvolvida com CRA e a Mobile utilizando o Expo
 
 
 ## Telas:
+![cron-web](https://user-images.githubusercontent.com/54459438/81742948-3f2aa580-9477-11ea-8944-d3a7633abecd.png)
+
+![cron_mobile](https://user-images.githubusercontent.com/54459438/81742732-f4109280-9476-11ea-8943-a3067897c29a.jpeg)   
+
+
 
 
