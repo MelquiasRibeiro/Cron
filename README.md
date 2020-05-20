@@ -1,7 +1,7 @@
 # Cron
 Um cronometro simples construída em React.Js & React Native 
 
-A aplicacão web foi desenvolvida com CRA e a Mobile utilizando o Expo
+A [aplicacão web](http://cron.surge.sh/) foi desenvolvida com CRA e a Mobile utilizando o Expo
  
 ## Conceitos abordados neste projeto:
 
